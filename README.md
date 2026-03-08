@@ -41,19 +41,12 @@ The database was implemented using **MySQL**.
 ## 🧠 What I Did in This Project — Step-by-Step Process
 
 | Phase | Activities |
-
 |-------|------------|
-
 | 📂 **Phase 1 — Database Design** | Created ER-based relational schema |
-
 | 🧱 **Phase 2 — Table Creation** | Implemented 15 interrelated tables |
-
 | 🔗 **Phase 3 — Relationship Mapping** | Applied primary & foreign key constraints |
-
 | 🧪 **Phase 4 — Data Insertion** | Inserted structured hospital sample data |
-
 | 🔍 **Phase 5 — Query Development** | Solved 15 real-world SQL business problems |
-
 | 📊 **Phase 6 — Advanced Logic** | Used joins, aggregation, subqueries & date comparisons |
 ---
 
